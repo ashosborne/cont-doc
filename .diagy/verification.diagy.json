@@ -1,7 +1,0 @@
-{
-	"type": "component",
-	"id": "verification",
-	"label": "Message API",
-	"connections": ["dataService"],
-	"description": "Orchestrates going to system API to fetch relevant message"
-}
