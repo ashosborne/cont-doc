@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "notificationSink",
+	"label": "Notification Sink",
+	"connections": ["hangoutsAPI"],
+	"description": ""
+}

@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "wordpress",
+	"label": "WordPress",
+	"connections": ["server", "configurationService", "verification"],
+	"description": "The WordPress instance, hosing the marketing pages."
+}

@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "configurationService",
+	"label": "Configuration Service",
+	"connections": ["server"],
+	"description": "This is a centralized service for getting configuration for different subsystems in different environments."
+}

@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "paymentGateway",
+	"label": "Payment Gateway",
+	"connections": ["server"],
+	"description": "This is a web service to store credit card information, and charge stored credit card against a subscription."
+}

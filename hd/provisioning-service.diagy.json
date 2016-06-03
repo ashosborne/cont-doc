@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "provisionService",
+	"label": "Provisioning Service",
+	"connections": ["server"],
+	"description": "Provisioning Service that adds/updates account, user, settings, etc into the database."
+}

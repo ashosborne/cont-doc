@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "database",
+	"label": "Database",
+	"connections": [],
+	"description": "Directory of users and their associated properties."
+}

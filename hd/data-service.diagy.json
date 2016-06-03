@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "dataService",
+	"label": "Data Service",
+	"connections": ["database"],
+	"description": "Provides a single interface for storage, tickets and sessions."
+}

@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "notificationEngine",
+	"label": "Notification Engine",
+	"connections": ["twilioAPI"],
+	"description": "Subsystem that sends out push notifications to mobile clients."
+}

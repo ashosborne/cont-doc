@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "verification",
+	"label": "Verification",
+	"connections": ["dataService","notificationEngine", "notificationSink"],
+	"description": "Web services to verify email, mobile phone number (by sending link to email, or sending SMS to phone number and ask user to verify)."
+}

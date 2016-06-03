@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "twilioAPI",
+	"label": "Twilio API",
+	"connections": [],
+	"description": "APIs for Text Messaging. Used to deliver phone verification SMS at signup."
+}

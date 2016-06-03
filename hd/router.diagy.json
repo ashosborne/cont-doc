@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "router",
+	"label": "Router",
+	"connections": ["server", "bridge"],
+	"description": "Routes calls between mobile/desktop clients and the bridge."
+}
