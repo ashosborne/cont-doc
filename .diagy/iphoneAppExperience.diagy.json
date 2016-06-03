@@ -1,7 +1,7 @@
 {
 	"type": "component",
-	"id": "configurationService",
+	"id": "iphoneAppExperience",
 	"label": "Message Experience API",
-	"connections": ["server"],
+	"connections": ["proxy"],
 	"description": "Experience API built for iPhone to get a message"
 }

@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "messageProcess",
+	"label": "Message API",
+	"connections": [],
+	"description": "Message Service process API that fetches messages from system APIs"
+}

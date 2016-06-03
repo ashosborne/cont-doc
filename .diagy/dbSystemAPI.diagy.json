@@ -1,7 +1,7 @@
 {
 	"type": "component",
-	"id": "dataService",
+	"id": "dbSystemAPI",
 	"label": "DB System API",
-	"connections": ["database"],
+	"connections": [],
 	"description": "System API to access database to fetch greeting message"
 }
