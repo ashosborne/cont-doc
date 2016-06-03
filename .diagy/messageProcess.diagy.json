@@ -2,6 +2,6 @@
 	"type": "component",
 	"id": "messageProcess",
 	"label": "Message API",
-	"connections": [],
+	"connections": ["proxy", "dbSystemAPI"],
 	"description": "Message Service process API that fetches messages from system APIs"
 }

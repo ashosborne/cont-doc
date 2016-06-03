@@ -1,7 +1,7 @@
 {
 	"type": "component",
 	"id": "proxy",
-	"label": "Hello World Proxy",
-	"connections": [],
-	"description": "Hello World Proxy"
+	"label": "Message process API proxy",
+	"connections": ["messageProcess"],
+	"description": "Message process proxy- has rate limiting and throttling in place"
 }
