@@ -1,7 +1,7 @@
 {
-	"type": "component",
-	"id": "wordpress",
-	"label": "WordPress",
-	"connections": ["server", "configurationService", "verification"],
-	"description": "The WordPress instance, hosing the marketing pages."
+	"type": "API Proxy",
+	"id": "proxy",
+	"label": "Hello World Proxy",
+	"connections": ["helloWorldService", "throttlePolicy"],
+	"description": "Hello World Proxy"
 }
