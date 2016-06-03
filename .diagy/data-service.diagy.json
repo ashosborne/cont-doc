@@ -1,7 +1,7 @@
 {
 	"type": "component",
 	"id": "dataService",
-	"label": "Data Service",
+	"label": "DB System API",
 	"connections": ["database"],
-	"description": "Provides a single interface for storage, tickets and sessions."
+	"description": "System API to access database to fetch greeting message"
 }
