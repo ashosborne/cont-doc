@@ -1,7 +1,7 @@
 {
 	"type": "component",
 	"id": "verification",
-	"label": "Hello World API",
+	"label": "Message API",
 	"connections": ["dataService"],
-	"description": "Goes to a database and fetches hello world. This service can be extended to also say goodbye world."
+	"description": "Orchestrates going to system API to fetch relevant message"
 }
