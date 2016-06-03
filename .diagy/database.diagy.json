@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "database",
+	"label": "mySQL data base",
+	"connections": [],
+	"description": "mySQL database which has all greeting messages"
+}

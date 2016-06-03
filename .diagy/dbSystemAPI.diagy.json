@@ -2,6 +2,6 @@
 	"type": "component",
 	"id": "dbSystemAPI",
 	"label": "DB System API",
-	"connections": [],
+	"connections": ["messageProcess", "database"],
 	"description": "System API to access database to fetch greeting message"
 }
