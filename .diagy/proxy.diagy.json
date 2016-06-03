@@ -2,6 +2,6 @@
 	"type": "API Proxy",
 	"id": "proxy",
 	"label": "Hello World Proxy",
-	"connections": [""],
+	"connections": [],
 	"description": "Hello World Proxy"
 }
