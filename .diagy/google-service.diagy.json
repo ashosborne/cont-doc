@@ -1,0 +1,8 @@
+
+{
+	"type": "component",
+	"id": "googleAPI",
+	"label": "Translation Service",
+	"connections": ["translationService"],
+	"description": "This is a translation service that invokes google translate"
+}
