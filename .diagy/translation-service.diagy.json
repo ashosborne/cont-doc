@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "translationService",
+	"label": "Translation Service",
+	"connections": ["messageProcess","googleAPI"],
+	"description": "This is a translation service that invokes google translate"
+}
