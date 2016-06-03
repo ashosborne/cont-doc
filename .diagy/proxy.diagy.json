@@ -1,5 +1,5 @@
 {
-	"type": "API Proxy",
+	"type": "component",
 	"id": "proxy",
 	"label": "Hello World Proxy",
 	"connections": [],
